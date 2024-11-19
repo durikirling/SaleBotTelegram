@@ -1,0 +1,7 @@
+venv/
+extra/
+db/*txt
+db/*db
+__pycache__
+/db_test.py
+/*.txt
